@@ -17,7 +17,7 @@ One of the final lines in the scripts allows you to test your own written commen
 
 ## Required Software
 1. Conda
-2. FastAI libraries - instructions can be found here https://docs.fast.ai/install.html
+2. The FastAI library - instructions can be found here https://docs.fast.ai/install.html
 
 ## Future
 In the future I'll probably look deeper into the AI libraries rather than rely on the abstraction that the FastAI libraries provide.
