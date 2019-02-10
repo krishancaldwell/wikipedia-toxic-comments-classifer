@@ -1,0 +1,5 @@
+# Ignore all data files, since these can become quite big
+.models/
+.tmp_clas/
+.tpm_lm/
+.ipynb_checkpoints/
